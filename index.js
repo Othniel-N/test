@@ -15,7 +15,7 @@ app.get('/api/user', (req, res) => {
 });
 
 app.get('/api/test', (req, res) => {
-  res.send("working");
+  res.send("workings");
 });
 
 
